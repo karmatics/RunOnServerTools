@@ -19,12 +19,17 @@
   "styles": [
     "css/basicsWithDialogBox.css"
   ],
-  "processedCountSinceCheckpoint": 0,
-  "lastCheckpointTime": "2026-10-10T06:22:57.210Z",
+  "processedCountSinceCheckpoint": 7,
+  "lastCheckpointTime": "2026-10-17T02:27:08.275Z",
   "pendingCheckpointDescription": "Clean working tree",
   "changedMethods": {
     "luno.json": "2026-10-06T05:19:37.112Z",
     "js/RunOnServerTools.js": "2026-10-06T05:25:49.857Z",
-    "Luno/app/LunoDeployEngine.js": "2026-10-06T07:22:40.877Z"
+    "Luno/app/LunoDeployEngine.js": "2026-10-06T07:22:40.877Z",
+    "CadPlan/luno.json": "2026-10-18T03:56:41.911Z",
+    "CadPlan/js/CadPlanItemNotes.js": "2026-10-18T04:39:38.566Z",
+    "Library/DocumentReader.js": "2026-10-18T04:39:38.566Z",
+    "CadPlan/js/CadPromptBundlerDialog.js": "2026-10-18T03:56:41.911Z",
+    "CadPlan/js/CadPlanDocumentEditor.js": "2026-10-18T04:39:38.566Z"
   }
 }
