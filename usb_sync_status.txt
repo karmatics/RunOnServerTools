@@ -1,0 +1,5 @@
+Target USB Drive: /Volumes/USB20FD
+Mac LAN IP: 10.0.0.226
+Source Workspace: /Users/rob/source/LunoProjects
+Source Recursi: /Users/rob/source/recursi
+Status: Staging files to USB
