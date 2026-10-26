@@ -19,9 +19,9 @@
   "styles": [
     "css/basicsWithDialogBox.css"
   ],
-  "processedCountSinceCheckpoint": 9,
-  "lastCheckpointTime": "2026-10-23T12:50:00.000Z",
-  "pendingCheckpointDescription": "Lean USB sync: Luno Core & Library only",
+  "processedCountSinceCheckpoint": 0,
+  "lastCheckpointTime": "2026-10-26T06:26:47.988Z",
+  "pendingCheckpointDescription": "Clean working tree",
   "changedMethods": {
     "luno.json": "2026-10-23T19:52:43.665Z"
   }
